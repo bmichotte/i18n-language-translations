@@ -1,0 +1,25 @@
+= I18nLanguageTranslations
+
+The purpose of this gem is to simply provide language translations.
+The translations are extracted from Zend Framework data files.
+
+== Installation
+
+Add to your Gemfile:
+
+    gem 'i18n-language-translations'
+
+== Usage
+
+  I18n.t(:US, :scope => :locales)
+  
+or
+  
+  t(:US, :scope => :locales)
+
+== Version History
+0.0.1 - Initial version
+
+== License
+MIT
+
