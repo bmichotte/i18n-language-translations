@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    i18n-language-translations (0.0.1)
+    i18n-language-translations (0.0.2)
       i18n (~> 0.5)
       railties (>= 3.0.0)
 

@@ -11,14 +11,14 @@ Add to your Gemfile:
 
 == Usage
 
-  I18n.t(:US, :scope => :locales)
+  I18n.t(:US, :scope => :languages)
   
 or
   
-  t(:US, :scope => :locales)
+  t(:US, :scope => :languages)
 
 == Version History
-0.0.1 - Initial version
+0.0.2 - Initial version
 
 == License
 MIT
