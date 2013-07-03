@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/bmichotte/i18n-language-translations"
   s.summary     = "I18n Language Translations"
   s.description = "The purpose of this gem is to simply provide language translations."
+  s.license = 'MIT'
 
   s.files        = Dir.glob("lib/**/*") + Dir.glob("rails/locale/*") +
                    %w(README.rdoc MIT-LICENSE)
