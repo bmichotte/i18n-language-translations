@@ -3,6 +3,8 @@
 The purpose of this gem is to simply provide language translations.
 The translations are extracted from Zend Framework data files.
 
+This gem is based on [I18nCountryTranslations](https://github.com/onomojo/i18n-country-translations/)
+
 == Installation
 
 Add to your Gemfile:
